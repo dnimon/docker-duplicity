@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # chown cache folder to ubuntu
 
 docker run --rm --user $UID --hostname `hostname` \
